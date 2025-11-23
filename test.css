@@ -2,12 +2,12 @@
     --surCordBackground: rgb(255, 0, 0);
     --surCordBackground2: rgb(255, 0, 0);
     --surCordTextBackground: rgb(255, 0, 0);
-    --surcordFriendsBackground: rgb(26, 27, 39); 
-    --surCordFriends: rgb(22, 22, 31);
-    --surCordActiveNow: rgb(22, 22, 31, .276);
-    --surCordGuilds: rgb(22, 22, 31);
+    --surcordFriendsBackground: rgb(255, 0, 0); 
+    --surCordFriends: rgb(255, 0, 0);
+    --surCordActiveNow: rgb(255, 0, 0, .276);
+    --surCordGuilds: rgb(255, 0, 0);
     --surCordTitleBar: rgb(255, 0, 0);
-    --surCordSearch: rgb(31, 32, 46);
-    --surCordHover: rgb(143, 188, 187, 0.200);
-    --surCordBorder: rgba(177, 77, 99, 0.396);
+    --surCordSearch: rgb(255, 0, 0);
+    --surCordHover: rgb(143, 0 00, 0.200);
+    --surCordBorder: rgba(177, 0, 0, 0.396);
 }
